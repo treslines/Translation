@@ -71,5 +71,12 @@
     <string name="txt_secret_private_key">Private Key Password</string>
     <string name="txt_close">Close</string>
     <string name="txt_only_empty_groups">Nothing to export, only empty groups!</string>
+    <string name="txt_privacy_policy">Privacy Policy &amp; Terms of Use</string>
+    <string name="txt_show_to_friends">Show to your friends!</string>
+    <string name="txt_contribute_language">Contribute - Help us get more languages!</string>
+    <string name="txt_privacy_policy_title">Privacy Policy</string>
+    <string name="txt_open_source_title">Open Source Licences</string>
+    <string name="txt_show_friends_title">Surprise Someone</string>
+    <string name="txt_translation_title">Translations</string>
 
 </resources>
