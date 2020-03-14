@@ -94,5 +94,6 @@
     <string name="txt_billing_timeout">Time out! Your connection may be down! Try later!</string>
     <string name="txt_billing_api_error">API error! Please contact the app developer!</string>
     <string name="txt_billing_already_bought">You already bought this item!</string>
+    <string name="txt_billing_no_purchase_supported">Cellphone does not support InApp-Purchase!</string>
 
 </resources>
