@@ -78,5 +78,8 @@
     <string name="txt_open_source_title">Open Source Licences</string>
     <string name="txt_show_friends_title">Surprise Someone</string>
     <string name="txt_translation_title">Translations</string>
+    <string name="txt_pro_version_title">Upgrade Pro-Version</string>
+    <string name="txt_pro_version_item">Backup your Data - Highly Recommended!</string>
+    <string name="txt_pro_version_updated">Already updated!</string>
 
 </resources>
