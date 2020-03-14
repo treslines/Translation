@@ -81,5 +81,18 @@
     <string name="txt_pro_version_title">Upgrade Pro-Version</string>
     <string name="txt_pro_version_item">Backup your Data - Highly Recommended!</string>
     <string name="txt_pro_version_updated">Already updated!</string>
+    <string name="txt_billing_update_success">Updated successfully!</string>
+    <string name="txt_billing_updated_over_playstore">Updated over Play Store!</string>
+    <string name="txt_billing_purchase_failure">Purchase failure. Try again!</string>
+    <string name="txt_billing_unknown_error">Unknown error! Please contact the app developer!</string>
+    <string name="txt_billing_product_unavailable">Product unavailable for purchase!</string>
+    <string name="txt_billing_api_unsupported">Your API version is not supported!</string>
+    <string name="txt_billing_no_network">Network connection is down</string>
+    <string name="txt_billing_update_canceled">Update Canceled!</string>
+    <string name="txt_billing_playstore_updated">Play Store Service has updated! Try again later!</string>
+    <string name="txt_billing_feature_not_supported">Feature not supported on your device!</string>
+    <string name="txt_billing_timeout">Time out! Your connection may be down! Try later!</string>
+    <string name="txt_billing_api_error">API error! Please contact the app developer!</string>
+    <string name="txt_billing_already_bought">You already bought this item!</string>
 
 </resources>
