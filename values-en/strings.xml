@@ -29,7 +29,7 @@
     <string name="txt_special_thanks">Special Thanks &amp; Attributions</string>
     <string name="txt_qrcode_online">Take the generated QR-Codes and save them! If you lose it, all your encrypted passwords are forever gone!</string>
     <string name="txt_generate_keys">Let Orchid Password generate a key pair that contains your passwords!</string>
-    <string name="txt_set_keys">Set a Password for your public and private keys!</string>
+    <string name="txt_set_keys">Set a STRONG Password for your public and private keys!</string>
     <string name="txt_how_to">Create Orchid QR-Codes!</string>
     <string name="txt_ok_next">Ok, got it! Next >></string>
     <string name="txt_add_pass">Set Passwords</string>
