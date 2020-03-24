@@ -99,5 +99,17 @@
     <string name="txt_feedback">Motivate us to get better!</string>
     <string name="txt_billing_service_temp_unavailable">Service temporally unavailable! Try later!</string>
     <string name="txt_delete_item">One click on \'X\' deletes item!</string>
+    <string name="txt_no_public_key_created">You must create your public key first!</string>
+    <string name="txt_are_you_sure">Are you sure?</string>
+    <string name="txt_body_new_key_generation">If you create new keys, your old public key will be replaced. If this happens, you can use the "Scan public key" function in the Information area and import your old public key.</string>
+    <string name="txt_generate_new_keys">Create new key-Pair?</string>
+    <string name="txt_button_generate_key_ok">Create!</string>
+    <string name="txt_create">Create</string>
+    <string name="txt_public_key">Scan public key</string>
+    <string name="txt_public_key_scan">Scan existing public key</string>
+    <string name="txt_imp_pub">Import existing public key</string>
+    <string name="txt_import_existing_pub">Scan</string>
+    <string name="txt_import_error">Import Error! Try again!</string>
+
 
 </resources>
